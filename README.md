@@ -11,4 +11,4 @@
 - Focus: Humanitarian Aid, Artificial Intelligence, Big Data
 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/dodt/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/dodt/). Follow me on [Twitter](https://twitter.com/sebdodt)
