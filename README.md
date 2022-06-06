@@ -1,13 +1,13 @@
 ### My Work 🌱
 
-🦾 In my work, I try to combine political science and data science. \
-🦾 I am focusing on Machine Learning to help analyse social and political phenomena.
+🦾 I believe Data Science can be a fruitful tool to enable effective policymaking.
+🦾 In my professional and academic career, I am looking to use AI for social good.
 
 
 ### About me:
 
-- Student at SOAS University of London & London School of Economics
-- BA International Relations
+- currently studying MSc Public Policy and Mangement - Data Analytics at Carnegie Mellon University
+- BA International Relations from SOAS University of London & London School of Economics
 - Focus: Humanitarian Aid, Artificial Intelligence, Big Data
 
 
